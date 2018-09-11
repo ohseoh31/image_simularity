@@ -1,6 +1,17 @@
 ## 1. Template Matching
 ```
+
 - https://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/template_matching/template_matching.html
 - https://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/template_matching/template_matching.html
+
+```
+
+## 2. skimage.measure -> compare_ssim
+
+```
+
+- http://scikit-image.org/docs/dev/api/skimage.measure.html
+- https://github.com/scikit-image/scikit-image/blob/master/skimage/measure/_structural_similarity.py
+- https://gist.github.com/minhokim0201/7b6655fcfcdb4963b44572a1236c46ae
 
 ```
