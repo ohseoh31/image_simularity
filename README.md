@@ -13,7 +13,7 @@
  - http://blog.naver.com/PostView.nhn?blogId=windowsub0406&logNo=220540208296
 ```
   
-### 3. 이미지 유사도 알고리즘
+### 2. 이미지 유사도 알고리즘
 
 ```
  - http://nanamare.tistory.com/18 : 히스토그램, 탬플릿 매칭, 피처 매칭
